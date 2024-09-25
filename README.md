@@ -5,5 +5,5 @@
 # Workinng
 0. Concept
    [PDF](./Doc/0.Concept.pdf)
-   [PPT](https://github.com/GonyNoh/Input-Shaping/tree/main/Doc/InputShaping-0.Concept.20240925a.pptx)
+   [PPT](./Doc/0.Concept.pptx)
 
