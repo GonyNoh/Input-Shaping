@@ -4,6 +4,6 @@
 
 # Workinng
 0. Concept
-   [PDF](https://github.com/GonyNoh/Input-Shaping/Doc/0.Concept.pdf)
+   [PDF](../Doc/0.Concept.pdf)
    [PPT](https://github.com/GonyNoh/Input-Shaping/tree/main/Doc/InputShaping-0.Concept.20240925a.pptx)
 
